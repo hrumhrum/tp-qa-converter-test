@@ -13,8 +13,7 @@ public class ResultPage {
 
 
     private WebDriver driver;
-    public String[] resultData = {"", ""};
-
+   
     public ResultPage(WebDriver driver) {
         this.driver = driver;
     }
