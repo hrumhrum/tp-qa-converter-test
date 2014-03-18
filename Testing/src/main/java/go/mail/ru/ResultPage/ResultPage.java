@@ -19,12 +19,15 @@ public class ResultPage {
         this.driver = driver;
     }
 
-    public String[] getAnswer(String sum) {
-
+    public String getValue(String sum) {
         driver.findElement(By.id("ival")).sendKeys(Keys.BACK_SPACE);
         driver.findElement(By.id("ival")).sendKeys(sum);
-        resultData[0] = driver.findElement(By.id("oval")).getText();
-        resultData[1] = driver.findElement(By.id("ival")).getCssValue("color");
-        return resultData;
+        return driver.findElement(By.id("oval")).getText();
     }
+
+    public String getColor(String sum) {
+
+        return driver.findElement(By.id("ival")).getCssValue("color");
+    }
+
 }

@@ -76,7 +76,7 @@
       <file leaf-file-name="ConverterTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/go/mail/ru/ConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.21853147" vertical-offset="150" max-vertical-offset="1425">
+            <state line="39" column="5" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.17452008" vertical-offset="675" max-vertical-offset="1300">
               <folding />
             </state>
           </provider>
@@ -94,8 +94,10 @@
       <file leaf-file-name="ResultPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
-              <folding />
+            <state line="22" column="68" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="975">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,10 +118,17 @@
         <option value="$PROJECT_DIR$/src/main/java/go/mail/ru/HomePage/HomePage.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/go/mail/ru/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/go/mail/ru/ConverterTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -503,7 +512,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36580312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36476684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -542,6 +551,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="54" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/go/mail/ru/ConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/HomePage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="900">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="43" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="1450">
           <folding />
         </state>
@@ -564,7 +603,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="0" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="230" max-vertical-offset="875">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,7 +633,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="550">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -608,14 +651,17 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.40.0/selenium-api-2.40.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="960" selection-end="960" vertical-scroll-proportion="-7.0" vertical-offset="375" max-vertical-offset="3625">
-          <folding />
-        </state>
+        <state line="23" column="41" selection-start="960" selection-end="960" vertical-scroll-proportion="-7.0" vertical-offset="375" max-vertical-offset="3625" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.40.0/selenium-remote-driver-2.40.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="0" selection-start="4405" selection-end="4405" vertical-scroll-proportion="-10.16" vertical-offset="1521" max-vertical-offset="6950">
+        <state line="72" column="0" selection-start="4405" selection-end="4405" vertical-scroll-proportion="-10.16" vertical-offset="1521" max-vertical-offset="6950" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/HomePage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
           <folding />
         </state>
       </provider>
@@ -627,23 +673,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/HomePage/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/go/mail/ru/ResultPage/ResultPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
-          <folding />
+        <state line="22" column="68" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="389" max-vertical-offset="975">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/go/mail/ru/ConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.21853147" vertical-offset="150" max-vertical-offset="1425">
+        <state line="39" column="5" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.17452008" vertical-offset="675" max-vertical-offset="1300">
           <folding />
         </state>
       </provider>

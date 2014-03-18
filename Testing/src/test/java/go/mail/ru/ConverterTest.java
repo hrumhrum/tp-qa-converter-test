@@ -26,7 +26,7 @@ public class ConverterTest {
                 {"avha", "0", "rgba(255, 0, 0, 1)", "кг в фунты"},
                 {"100", "220,46226", "rgba(0, 0, 0, 1)", "кг в фунты"},
                 {"0,000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001",
-                        "0", "rgba(0, 0, 0, 1)", "кг в фунты"},
+                       "0", "rgba(0, 0, 0, 1)", "кг в фунты"},
                 {"100000000000000000000", "2,20462×1020", "rgba(0, 0, 0, 1)", "кг в фунты"},
                 {" ", "0", "rgba(255, 0, 0, 1)", "кг в фунты" },
                 {"", "0", "rgba(0, 0, 0, 1)", "ru d aeyns"}
@@ -46,14 +46,9 @@ public class ConverterTest {
     @Test(dataProvider = "testData")
     public void testSearch(String first, String second, String third, String fourth) {
         HomePage homePage = new HomePage(driver);
-        //driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         ResultPage result = homePage.search(fourth);
+        assertTrue(result.getValue(first).equals(second));
+        assertTrue(result.getColor(first).equals(third));
 
-        result.getAnswer(first);
-        boolean res = false;
-        if (result.resultData[1].equals(third) && result.resultData[0].equals(second))
-            res = true;
-
-        assertTrue(res);
     }
 }
